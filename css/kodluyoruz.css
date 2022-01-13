@@ -1,19 +1,28 @@
-/* Açıklama satırı 
+/* Açıklama satırı
 
+class-> .text-red{}
+id -> #id-bilgisi {}
 */
-body {background-color: black;
-      color: white;
-      font-family: sans-serif;
+
+h1,h2,h3,h4,h5,h6{
+    color:seagreen
 }
 
-
-h2 {
-    color: rgb(38, 0, 255);
-    font-size:31px;
-    text-transform: uppercase;
-
+#first-article{
+    font-size: 35px;
 }
-p{
-    color: white;
+.text-red{
+    color: red;
+}
+
+.fs-small{
+    font-size: 14px;
+}
+
+.fs-medium{
     font-size: 20px;
+}
+
+.fs-large{
+    font-size: 31px;
 }
