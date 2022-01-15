@@ -1,0 +1,10 @@
+li{
+    list-style-position: inside
+}
+body{
+    color: rgb(41, 14, 14);
+    text-align: center;
+}
+h1,h2{
+    color:rgb(190, 19, 19)
+}
